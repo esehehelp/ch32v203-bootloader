@@ -1,0 +1,9 @@
+{
+    "name": "ch32v-cdc",
+    "version": "0.1.0",
+    "repository": { "type": "git", "url": "https://github.com/esehehelp/ch32v203-bootloader" },
+    "description": "USB CDC-ACM library for CH32V203 (USBD) with 1200bps bootloader trigger (port of ch32x-cdc)",
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "ch32v"
+}
